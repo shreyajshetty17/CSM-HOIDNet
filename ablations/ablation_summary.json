@@ -1,0 +1,26 @@
+{
+  "baseline": {
+    "full_map": 11.823139101977462,
+    "rare_map": 7.833654000320667,
+    "non_rare_map": 12.820510377391662,
+    "classes_scored": 450
+  },
+  "no_aux_loss": {
+    "full_map": 10.531557323691443,
+    "rare_map": 9.767106267106266,
+    "non_rare_map": 10.722670087837738,
+    "classes_scored": 450
+  },
+  "no_asymmetric_loss": {
+    "full_map": 9.27388190474604,
+    "rare_map": 1.574074074074074,
+    "non_rare_map": 11.19883386241403,
+    "classes_scored": 450
+  },
+  "no_contrastive": {
+    "full_map": 9.904904480457581,
+    "rare_map": 5.425144949267756,
+    "non_rare_map": 11.024844363255038,
+    "classes_scored": 450
+  }
+}
